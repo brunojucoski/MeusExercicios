@@ -27,7 +27,7 @@ public class pilhas3 {
             continuar = scan.next().charAt(0);
         }
 
-        if (P1=P2)
+
 
 
 
