@@ -19,7 +19,7 @@ public class pilhas3 {
             continuar = scan.next().charAt(0);
         }
 
-        for (int i=0; i<5; i++) {
+        for (int i=0;continuar!= 'n'; i++) {
             System.out.println("insira um valor inteiro para preencher a pilha P2: ");
             int y = scan.nextInt();
             P2.push(y);
